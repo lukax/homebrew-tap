@@ -18,7 +18,7 @@ llms-ink https://example.com/docs --full   # llms-full.txt
 llms-ink --help
 ```
 
-Free without a key; set `LLMS_INK_KEY` for higher limits. Docs: https://llms.ink/docs/
+Reading and checks work without a key; set `LLMS_INK_KEY` for higher limits. CLI 0.6.0+ also supports `llms-ink inspect --file document.md`, which uploads that file to the hosted pilot and requires `LLMS_INK_INSPECT_KEY`. Any nonzero inspection exit must stop delivery. Docs: https://llms.ink/docs/
 
 ## Updating the formula
 
