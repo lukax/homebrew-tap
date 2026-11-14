@@ -1,8 +1,8 @@
 class LlmsInk < Formula
   desc "Turn any link into llms.txt and llms-full.txt for your AI"
   homepage "https://llms.ink"
-  url "https://registry.npmjs.org/@lukax/llms-ink/-/llms-ink-0.6.0.tgz"
-  sha256 "d6858ef8ac51190de56c805b9ee0853f227f357ea3b31e4d71676232a3902253"
+  url "https://registry.npmjs.org/@lukax/llms-ink/-/llms-ink-0.7.0.tgz"
+  sha256 "208577db34ff75c2b8758e2d6158c0a8050733e190f0c9d1cf10244ad51c6362"
   license "MIT"
 
   depends_on "node"
